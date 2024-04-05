@@ -1,0 +1,102 @@
+{
+    "INTER": {
+        "credit_limit": 2800.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 0.0,
+                "paid": 0.0
+            }
+        ]
+    },
+    "PAN": {
+        "credit_limit": 2050.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 110.43,
+                "paid": 110.43
+            }
+        ]
+    },
+    "SANTANDER": {
+        "credit_limit": 1980.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 472.78,
+                "paid": 472.78
+            }
+        ]
+    },
+    "NEXT": {
+        "credit_limit": 1380.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 678.97,
+                "paid": 101.8455
+            }
+        ]
+    },
+    "MERCADO PAGO": {
+        "credit_limit": 1280.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 315.05,
+                "paid": 315.05
+            }
+        ]
+    },
+    "C6": {
+        "credit_limit": 580.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 559.28,
+                "paid": 359.1550000000004
+            }
+        ]
+    },
+    "BMG": {
+        "credit_limit": 650.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 640.93,
+                "paid": 96.13949999999998
+            }
+        ]
+    },
+    "ORIGINAL": {
+        "credit_limit": 300.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 153.94,
+                "paid": 153.94
+            }
+        ]
+    },
+    "DIGIO": {
+        "credit_limit": 990.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 231.27,
+                "paid": 231.26999999999998
+            }
+        ]
+    },
+    "BRADESCO": {
+        "credit_limit": 2400.0,
+        "invoices": [
+            {
+                "date": "04/24",
+                "value": 159.39,
+                "paid": 159.39
+            }
+        ]
+    }
+}
